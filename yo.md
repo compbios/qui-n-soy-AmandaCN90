@@ -1,4 +1,6 @@
-Soy **Nutricionista** con *seis* años de experiencia laboral
+```diff
++Soy **Nutricionista** con *seis* años de experiencia laboral
+```
 
 Hace ***cinco*** años comence un proceso de educación formal en el área de Errores Innatos del Metabolismo
 
@@ -13,3 +15,8 @@ Mis intereses en investigación incluyen
 > - [] Biomarcadores para el seguimiento del tratamiento nutricional
 > - [x] Diseño de material de educación nutricional
 > - [] Abordaje desde la perspectiva del paciente y cuidador
+
+$\color{RubineRed}{\ Uno\ de\ mis \ artistas \ favoritos \ es :}$
+[Jhon Mayer] (https://www.youtube.com/watch?v=_DfQC5qHhbo)
+
+![alt text](https://es.pngtree.com/freepng/a-cute-sea-otter-cake_15306429.html)
