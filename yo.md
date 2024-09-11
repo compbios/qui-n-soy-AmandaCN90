@@ -18,5 +18,6 @@ Mis intereses en investigación incluyen
 
 $\color{RubineRed}{\ Uno\ de\ mis \ artistas \ favoritos \ es :}$
 [Jhon Mayer] (https://www.youtube.com/watch?v=_DfQC5qHhbo)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/JohnMayerin2019.jpg/640px-JohnMayerin2019.jpg)
 
 ![alt text](https://es.pngtree.com/freepng/a-cute-sea-otter-cake_15306429.html)
